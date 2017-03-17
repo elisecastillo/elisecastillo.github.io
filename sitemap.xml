@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.org/pages/research/</loc>
+    <loc>https://elisecastillo.github.io/pages/research/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/pages/other_work/</loc>
+    <loc>https://elisecastillo.github.io/pages/other_work/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/pages/contact/</loc>
+    <loc>https://elisecastillo.github.io/pages/contact/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://elisecastillo.github.io/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/pages/</loc>
+    <loc>https://elisecastillo.github.io/pages/</loc>
     <priority>0</priority>
   </url>
   
