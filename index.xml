@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Me on Elise Castillo</title>
-    <link>https://elisecastillo.com/</link>
+    <link>http://elisecastillo.com/</link>
     <description>Recent content in About Me on Elise Castillo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://elisecastillo.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://elisecastillo.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Research</title>
-      <link>https://elisecastillo.com/pages/research/</link>
+      <link>http://elisecastillo.com/pages/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://elisecastillo.com/pages/research/</guid>
+      <guid>http://elisecastillo.com/pages/research/</guid>
       <description>Dissertation (in progress): The Politics of Advocacy Across Ideologically-Diverse Charter Schools
 Committee: Janelle Scott (Chair), Daniel Perlstein, Christopher Ansell
 Refereed Publications Scott, J., DeBray, E., Lubienski, C., La Londe, P. G., Castillo, E., &amp;amp; Owens, S. (2017). Urban regimes, intermediary organization networks, and research use: Patterns across three school districts. Peabody Journal of Education, 92(1), 16–28.
@@ -24,19 +24,19 @@ Kagan, S. L., Castillo, E., Gomez, R. E., &amp;amp; Gowani, S. (2013). Understan
     
     <item>
       <title>Other Work</title>
-      <link>https://elisecastillo.com/pages/other_work/</link>
+      <link>http://elisecastillo.com/pages/other_work/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://elisecastillo.com/pages/other_work/</guid>
+      <guid>http://elisecastillo.com/pages/other_work/</guid>
       <description>I am a co-chief editor of the Berkeley Review of Education, an open-access, peer-reviewed journal edited by students at the Graduate School of Education at the University of California, Berkeley.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://elisecastillo.com/pages/contact/</link>
+      <link>http://elisecastillo.com/pages/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://elisecastillo.com/pages/contact/</guid>
+      <guid>http://elisecastillo.com/pages/contact/</guid>
       <description>Email
 elise.castillo@berkeley.edu
 Mail
