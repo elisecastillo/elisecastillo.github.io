@@ -2,53 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Elise Castillo</title>
-    <link>https://elisecastillo.github.io/pages/index.xml</link>
+    <link>https://elisecastillo.com/pages/</link>
     <description>Recent content in Pages on Elise Castillo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://elisecastillo.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://elisecastillo.com/pages/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Research</title>
-      <link>https://elisecastillo.github.io/pages/research/</link>
+      <link>https://elisecastillo.com/pages/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://elisecastillo.github.io/pages/research/</guid>
-      <description>&lt;p&gt;This is for a list of papers etc.&lt;/p&gt;
-</description>
+      <guid>https://elisecastillo.com/pages/research/</guid>
+      <description>Dissertation (in progress): The Politics of Advocacy Across Ideologically-Diverse Charter Schools
+Committee: Janelle Scott (Chair), Daniel Perlstein, Christopher Ansell
+Refereed Publications Scott, J., DeBray, E., Lubienski, C., La Londe, P. G., Castillo, E., &amp;amp; Owens, S. (2017). Urban regimes, intermediary organization networks, and research use: Patterns across three school districts. Peabody Journal of Education, 92(1), 16–28.
+Kagan, S. L., Castillo, E., Gomez, R. E., &amp;amp; Gowani, S. (2013). Understanding and using early learning standards for young children globally.</description>
     </item>
     
     <item>
       <title>Other Work</title>
-      <link>https://elisecastillo.github.io/pages/other_work/</link>
+      <link>https://elisecastillo.com/pages/other_work/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://elisecastillo.github.io/pages/other_work/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Berkeley Review of Education&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;I serve as the co-chief editor of the &lt;a href=&#34;http://www.berkeleyreviewofeducation.com/&#34;&gt;Berkeley Review of Education&lt;/a&gt;, an open-access, peer-reviewed journal.&lt;/p&gt;
-</description>
+      <guid>https://elisecastillo.com/pages/other_work/</guid>
+      <description>I am a co-chief editor of the Berkeley Review of Education, an open-access, peer-reviewed journal edited by students at the Graduate School of Education at the University of California, Berkeley.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://elisecastillo.github.io/pages/contact/</link>
+      <link>https://elisecastillo.com/pages/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://elisecastillo.github.io/pages/contact/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Office&lt;/strong&gt;&lt;br /&gt;
-Tolman Hall ###&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Email&lt;/strong&gt;&lt;br /&gt;
-&lt;a href=&#34;mailto:elise.castillo@berkeley.edu&#34;&gt;elise.castillo@berkeley.edu&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Mail&lt;/strong&gt;&lt;br /&gt;
-Graduate School of Education&lt;br /&gt;
-University of California, Berkeley&lt;br /&gt;
-1501 Tolman Hall&lt;br /&gt;
-Berkeley, CA 94720-1670&lt;br /&gt;
-USA&lt;/p&gt;
-</description>
+      <guid>https://elisecastillo.com/pages/contact/</guid>
+      <description>Email
+elise.castillo@berkeley.edu
+Mail
+Graduate School of Education
+University of California, Berkeley
+3659 Tolman Hall
+Berkeley, CA 94720
+USA</description>
     </item>
     
   </channel>

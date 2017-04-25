@@ -2,23 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://elisecastillo.github.io/pages/research/</loc>
+    <loc>https://elisecastillo.com/pages/research/</loc>
   </url>
   
   <url>
-    <loc>https://elisecastillo.github.io/pages/other_work/</loc>
+    <loc>https://elisecastillo.com/pages/other_work/</loc>
   </url>
   
   <url>
-    <loc>https://elisecastillo.github.io/pages/contact/</loc>
+    <loc>https://elisecastillo.com/pages/contact/</loc>
   </url>
   
   <url>
-    <loc>https://elisecastillo.github.io/</loc>
+    <loc>https://elisecastillo.com/</loc>
   </url>
   
   <url>
-    <loc>https://elisecastillo.github.io/pages/</loc>
+    <loc>https://elisecastillo.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://elisecastillo.com/pages/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://elisecastillo.com/tags/</loc>
     <priority>0</priority>
   </url>
   
